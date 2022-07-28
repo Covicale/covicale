@@ -27,10 +27,8 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://twitter.com/rxxxyhn">twitter</a>]
-    [<a href="https://instagram.com/rayhankafipratama">instagram</a>]
-    [<a href="https://matrix.to/#/@rxyhn:matrix.org">matrix</a>]
-    [<a href="mailto:rxyhn.dev@gmail.com">e-mail</a>]
+    [<a href="https://twitter.com/covicale">twitter</a>]
+    [<a href="mailto:ag.covic@gmail.com">e-mail</a>]
   </samp>
 </p>
 
@@ -40,7 +38,7 @@
 <p align="center">
   <samp>
   <a href="#--------">
-    <img src="https://komarev.com/ghpvc/?username=rxyhn&label=Profile+Views&color=grey" alt="profile views" /> 
+    <img src="https://komarev.com/ghpvc/?username=covicale&label=Profile+Views&color=grey" alt="profile views" /> 
   </a>
   </samp>
 </p>
